@@ -1,6 +1,5 @@
 
 # Using the latest advancements in AI to predict stock market movements
-
  
 
 
